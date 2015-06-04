@@ -1,0 +1,17 @@
+{
+  "name": "sicet7/debug",
+  "description": "Some small useful debug functions.",
+  "authors": [
+    {
+      "name": "Martin renee soerensen",
+      "email": "sicet7@hotmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "autoload": {
+    "files": ["Functions.php"]
+  }
+}

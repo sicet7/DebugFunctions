@@ -14,7 +14,8 @@ Outputs the same as:
     die();
 ```
 
+
+if you want your var_dump as a string.
 ```php
     echo vds(false);
 ```
-this will echo the var_dump string.

@@ -7,7 +7,6 @@
       "email": "sicet7@hotmail.com"
     }
   ],
-  "minimum-stability": "dev",
   "require": {
     "php": ">=5.3.0"
   },

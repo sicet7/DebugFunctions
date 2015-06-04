@@ -1,4 +1,6 @@
 # DebugFunctions
+
+
 ### Usage
 
 ```php

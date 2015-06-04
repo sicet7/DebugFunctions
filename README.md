@@ -13,3 +13,8 @@ Outputs the same as:
     var_dump(false);
     die();
 ```
+
+```php
+    echo vds(false);
+```
+this will echo the var_dump string.

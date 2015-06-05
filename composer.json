@@ -1,6 +1,8 @@
 {
   "name": "sicet7/debug",
+  "license": "MIT",
   "description": "Some small useful debug functions.",
+  "version": "0.1",
   "authors": [
     {
       "name": "Martin renee soerensen",
@@ -8,7 +10,7 @@
     }
   ],
   "require": {
-    "php": ">=5.3.0"
+    "php": ">=5.0"
   },
   "autoload": {
     "files": ["Functions.php"]

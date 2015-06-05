@@ -1,5 +1,8 @@
 # DebugFunctions
 
+## Requirements
+
+- PHP >= 5.0
 
 ### Usage
 
@@ -19,3 +22,7 @@ if you want your var_dump as a string.
 ```php
     echo vds(false);
 ```
+
+## License 
+
+MIT

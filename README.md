@@ -11,6 +11,7 @@
 ```
 Outputs the same as:
 ```php
+    <?php
     echo '<pre>';
     var_dump('hej');
     var_dump(false);
@@ -20,6 +21,7 @@ Outputs the same as:
 
 if you want your var_dump as a string.
 ```php
+    <?php
     echo vds(false);
 ```
 

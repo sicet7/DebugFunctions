@@ -1,7 +1,5 @@
 # DebugFunctions
 
-git tag -a 0.0.0
-
 ## Requirements
 
 - PHP >= 5.0

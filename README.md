@@ -1,6 +1,6 @@
 # DebugFunctions
 
-git tag -a 1.0.0
+git tag -a 0.0.0
 
 ## Requirements
 
